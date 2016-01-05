@@ -1,0 +1,10 @@
+$colors: (navy #d4ffd4) (blue #ffd5d1) (aqua #ffd5d1) (teal #ffd5d1) (olive #ffd5d1) (green #ffd5d1) (lime #d4ffd4) (yellow #ffd5d1) (orange #ffd5d1) (red #ffd5d1) (maroon #ffd5d1) (fuchsia #ffd5d1) (purple #ffd5d1) (black #ffd5d1) (gray #ffd5d1) (silver #ffd5d1);
+
+@each $color_def in $colors {
+  $name: nth($color_def, 1);
+  $color: nth($color_def, 2);
+
+  .text-#{$name} {
+    color: $color;
+  }
+}

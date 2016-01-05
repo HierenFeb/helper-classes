@@ -1,0 +1,12 @@
+// Align
+
+// -- Text Align
+$align-text: center left right justify;
+
+@each $align-text--item in $align-text {
+  .text-#{$align-text--item} {
+    text-align: $align-text--item;
+  }
+}
+
+// -- Vertical Align

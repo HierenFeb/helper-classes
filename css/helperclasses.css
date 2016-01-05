@@ -1,0 +1,99 @@
+/* line 7, ../scss/_align.scss */
+.text-center {
+  text-align: center;
+}
+
+/* line 7, ../scss/_align.scss */
+.text-left {
+  text-align: left;
+}
+
+/* line 7, ../scss/_align.scss */
+.text-right {
+  text-align: right;
+}
+
+/* line 7, ../scss/_align.scss */
+.text-justify {
+  text-align: justify;
+}
+
+/* line 7, ../scss/_color.scss */
+.text-navy {
+  color: #d4ffd4;
+}
+
+/* line 7, ../scss/_color.scss */
+.text-blue {
+  color: #ffd5d1;
+}
+
+/* line 7, ../scss/_color.scss */
+.text-cyan {
+  color: #ffd5d1;
+}
+
+/* line 7, ../scss/_color.scss */
+.text-teal {
+  color: #ffd5d1;
+}
+
+/* line 7, ../scss/_color.scss */
+.text-olive {
+  color: #ffd5d1;
+}
+
+/* line 7, ../scss/_color.scss */
+.text-green {
+  color: #ffd5d1;
+}
+
+/* line 7, ../scss/_color.scss */
+.text-lime {
+  color: #d4ffd4;
+}
+
+/* line 7, ../scss/_color.scss */
+.text-yellow {
+  color: #ffd5d1;
+}
+
+/* line 7, ../scss/_color.scss */
+.text-orange {
+  color: #ffd5d1;
+}
+
+/* line 7, ../scss/_color.scss */
+.text-red {
+  color: #ffd5d1;
+}
+
+/* line 7, ../scss/_color.scss */
+.text-maroon {
+  color: #ffd5d1;
+}
+
+/* line 7, ../scss/_color.scss */
+.text-magenta {
+  color: #ffd5d1;
+}
+
+/* line 7, ../scss/_color.scss */
+.text-purple {
+  color: #ffd5d1;
+}
+
+/* line 7, ../scss/_color.scss */
+.text-black {
+  color: #ffd5d1;
+}
+
+/* line 7, ../scss/_color.scss */
+.text-gray {
+  color: #ffd5d1;
+}
+
+/* line 7, ../scss/_color.scss */
+.text-silver {
+  color: #ffd5d1;
+}
