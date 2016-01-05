@@ -18,82 +18,358 @@
   text-align: justify;
 }
 
-/* line 7, ../scss/_color.scss */
-.text-navy {
-  color: #d4ffd4;
+/* line 5, ../scss/_color.scss */
+.navy {
+  color: #001f3f;
 }
 
-/* line 7, ../scss/_color.scss */
-.text-blue {
-  color: #ffd5d1;
+/* line 8, ../scss/_color.scss */
+.bg--navy {
+  background-color: #001f3f;
 }
 
-/* line 7, ../scss/_color.scss */
-.text-cyan {
-  color: #ffd5d1;
+/* line 12, ../scss/_color.scss */
+.bg-full--navy::before {
+  background-color: #001f3f;
 }
 
-/* line 7, ../scss/_color.scss */
-.text-teal {
-  color: #ffd5d1;
+/* line 16, ../scss/_color.scss */
+.border--navy {
+  border-color: #001f3f;
 }
 
-/* line 7, ../scss/_color.scss */
-.text-olive {
-  color: #ffd5d1;
+/* line 5, ../scss/_color.scss */
+.blue {
+  color: #0074d9;
 }
 
-/* line 7, ../scss/_color.scss */
-.text-green {
-  color: #ffd5d1;
+/* line 8, ../scss/_color.scss */
+.bg--blue {
+  background-color: #0074d9;
 }
 
-/* line 7, ../scss/_color.scss */
-.text-lime {
-  color: #d4ffd4;
+/* line 12, ../scss/_color.scss */
+.bg-full--blue::before {
+  background-color: #0074d9;
 }
 
-/* line 7, ../scss/_color.scss */
-.text-yellow {
-  color: #ffd5d1;
+/* line 16, ../scss/_color.scss */
+.border--blue {
+  border-color: #0074d9;
 }
 
-/* line 7, ../scss/_color.scss */
-.text-orange {
-  color: #ffd5d1;
+/* line 5, ../scss/_color.scss */
+.cyan {
+  color: #7fdbff;
 }
 
-/* line 7, ../scss/_color.scss */
-.text-red {
-  color: #ffd5d1;
+/* line 8, ../scss/_color.scss */
+.bg--cyan {
+  background-color: #7fdbff;
 }
 
-/* line 7, ../scss/_color.scss */
-.text-maroon {
-  color: #ffd5d1;
+/* line 12, ../scss/_color.scss */
+.bg-full--cyan::before {
+  background-color: #7fdbff;
 }
 
-/* line 7, ../scss/_color.scss */
-.text-magenta {
-  color: #ffd5d1;
+/* line 16, ../scss/_color.scss */
+.border--cyan {
+  border-color: #7fdbff;
 }
 
-/* line 7, ../scss/_color.scss */
-.text-purple {
-  color: #ffd5d1;
+/* line 5, ../scss/_color.scss */
+.teal {
+  color: #39cccc;
 }
 
-/* line 7, ../scss/_color.scss */
-.text-black {
-  color: #ffd5d1;
+/* line 8, ../scss/_color.scss */
+.bg--teal {
+  background-color: #39cccc;
 }
 
-/* line 7, ../scss/_color.scss */
-.text-gray {
-  color: #ffd5d1;
+/* line 12, ../scss/_color.scss */
+.bg-full--teal::before {
+  background-color: #39cccc;
 }
 
-/* line 7, ../scss/_color.scss */
-.text-silver {
-  color: #ffd5d1;
+/* line 16, ../scss/_color.scss */
+.border--teal {
+  border-color: #39cccc;
+}
+
+/* line 5, ../scss/_color.scss */
+.olive {
+  color: #3d9970;
+}
+
+/* line 8, ../scss/_color.scss */
+.bg--olive {
+  background-color: #3d9970;
+}
+
+/* line 12, ../scss/_color.scss */
+.bg-full--olive::before {
+  background-color: #3d9970;
+}
+
+/* line 16, ../scss/_color.scss */
+.border--olive {
+  border-color: #3d9970;
+}
+
+/* line 5, ../scss/_color.scss */
+.green {
+  color: #2ecc40;
+}
+
+/* line 8, ../scss/_color.scss */
+.bg--green {
+  background-color: #2ecc40;
+}
+
+/* line 12, ../scss/_color.scss */
+.bg-full--green::before {
+  background-color: #2ecc40;
+}
+
+/* line 16, ../scss/_color.scss */
+.border--green {
+  border-color: #2ecc40;
+}
+
+/* line 5, ../scss/_color.scss */
+.lime {
+  color: #01ff70;
+}
+
+/* line 8, ../scss/_color.scss */
+.bg--lime {
+  background-color: #01ff70;
+}
+
+/* line 12, ../scss/_color.scss */
+.bg-full--lime::before {
+  background-color: #01ff70;
+}
+
+/* line 16, ../scss/_color.scss */
+.border--lime {
+  border-color: #01ff70;
+}
+
+/* line 5, ../scss/_color.scss */
+.yellow {
+  color: #ffdc00;
+}
+
+/* line 8, ../scss/_color.scss */
+.bg--yellow {
+  background-color: #ffdc00;
+}
+
+/* line 12, ../scss/_color.scss */
+.bg-full--yellow::before {
+  background-color: #ffdc00;
+}
+
+/* line 16, ../scss/_color.scss */
+.border--yellow {
+  border-color: #ffdc00;
+}
+
+/* line 5, ../scss/_color.scss */
+.orange {
+  color: #ff851b;
+}
+
+/* line 8, ../scss/_color.scss */
+.bg--orange {
+  background-color: #ff851b;
+}
+
+/* line 12, ../scss/_color.scss */
+.bg-full--orange::before {
+  background-color: #ff851b;
+}
+
+/* line 16, ../scss/_color.scss */
+.border--orange {
+  border-color: #ff851b;
+}
+
+/* line 5, ../scss/_color.scss */
+.red {
+  color: #ff4136;
+}
+
+/* line 8, ../scss/_color.scss */
+.bg--red {
+  background-color: #ff4136;
+}
+
+/* line 12, ../scss/_color.scss */
+.bg-full--red::before {
+  background-color: #ff4136;
+}
+
+/* line 16, ../scss/_color.scss */
+.border--red {
+  border-color: #ff4136;
+}
+
+/* line 5, ../scss/_color.scss */
+.maroon {
+  color: #85144b;
+}
+
+/* line 8, ../scss/_color.scss */
+.bg--maroon {
+  background-color: #85144b;
+}
+
+/* line 12, ../scss/_color.scss */
+.bg-full--maroon::before {
+  background-color: #85144b;
+}
+
+/* line 16, ../scss/_color.scss */
+.border--maroon {
+  border-color: #85144b;
+}
+
+/* line 5, ../scss/_color.scss */
+.magenta {
+  color: #f012be;
+}
+
+/* line 8, ../scss/_color.scss */
+.bg--magenta {
+  background-color: #f012be;
+}
+
+/* line 12, ../scss/_color.scss */
+.bg-full--magenta::before {
+  background-color: #f012be;
+}
+
+/* line 16, ../scss/_color.scss */
+.border--magenta {
+  border-color: #f012be;
+}
+
+/* line 5, ../scss/_color.scss */
+.purple {
+  color: #b10dc9;
+}
+
+/* line 8, ../scss/_color.scss */
+.bg--purple {
+  background-color: #b10dc9;
+}
+
+/* line 12, ../scss/_color.scss */
+.bg-full--purple::before {
+  background-color: #b10dc9;
+}
+
+/* line 16, ../scss/_color.scss */
+.border--purple {
+  border-color: #b10dc9;
+}
+
+/* line 5, ../scss/_color.scss */
+.black {
+  color: #111111;
+}
+
+/* line 8, ../scss/_color.scss */
+.bg--black {
+  background-color: #111111;
+}
+
+/* line 12, ../scss/_color.scss */
+.bg-full--black::before {
+  background-color: #111111;
+}
+
+/* line 16, ../scss/_color.scss */
+.border--black {
+  border-color: #111111;
+}
+
+/* line 5, ../scss/_color.scss */
+.gray {
+  color: #aaaaaa;
+}
+
+/* line 8, ../scss/_color.scss */
+.bg--gray {
+  background-color: #aaaaaa;
+}
+
+/* line 12, ../scss/_color.scss */
+.bg-full--gray::before {
+  background-color: #aaaaaa;
+}
+
+/* line 16, ../scss/_color.scss */
+.border--gray {
+  border-color: #aaaaaa;
+}
+
+/* line 5, ../scss/_color.scss */
+.silver {
+  color: #dddddd;
+}
+
+/* line 8, ../scss/_color.scss */
+.bg--silver {
+  background-color: #dddddd;
+}
+
+/* line 12, ../scss/_color.scss */
+.bg-full--silver::before {
+  background-color: #dddddd;
+}
+
+/* line 16, ../scss/_color.scss */
+.border--silver {
+  border-color: #dddddd;
+}
+
+/* line 5, ../scss/_color.scss */
+.white {
+  color: white;
+}
+
+/* line 8, ../scss/_color.scss */
+.bg--white {
+  background-color: white;
+}
+
+/* line 12, ../scss/_color.scss */
+.bg-full--white::before {
+  background-color: white;
+}
+
+/* line 16, ../scss/_color.scss */
+.border--white {
+  border-color: white;
+}
+
+/* line 21, ../scss/_color.scss */
+[class^="bg-full--"] {
+  position: relative;
+  z-index: 2;
+}
+/* line 24, ../scss/_color.scss */
+[class^="bg-full--"]::before {
+  position: absolute;
+  top: 0;
+  width: 99999em;
+  left: -999em;
+  z-index: -1;
+  height: 100%;
+  content: "";
 }
